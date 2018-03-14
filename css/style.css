@@ -1,0 +1,71 @@
+#importfiles{
+  visibility: hidden;
+}
+
+#next {
+  visibility: hidden;
+}
+
+#importeddata td, #importeddata, th {
+  border: 1px solid black;
+}
+
+#importeddata{
+  visibility: collapse;
+}
+
+#step {
+display: none;
+}
+
+#previous {
+  visibility: hidden;
+}
+
+.buttonline {
+  float:left;
+}
+
+#table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#table td, #table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#table tr:nth-child(even){background-color: #f2f2f2;}
+
+#table tr:hover {background-color: #ddd;}
+
+#table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: orange;
+    color: white;
+}
+
+.highlight {
+background-color: orange;
+}
+
+.redbackground {
+background-color: red;
+}
+
+button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	cursor: pointer;
+	border: 2px solid black;
+	font-weight: bold;
+  margin : 20px;
+}

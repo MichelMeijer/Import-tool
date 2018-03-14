@@ -1,0 +1,54 @@
+VOORDAT JE DE KLANTINFORMATIE INVULT LEES DE INSTRUCIES IN DE ONDERSTAANDE RIJEN.,,,,,,,,Verplichte rijen correct?,,,,,,,,Verplichte velden voor automatische incasso correct?,, ,
+,,,,,,,,,,,Welke rij is incorrect?,,,,,IBAN,Ja,allemaal correct,
+Rode rijen zijn VERPLICHT. Hier moet altijd informatie in staan. ,,,,,,,,Voornaam,,Ja,allemaal correct,,,,,Naam rekeninghouder,Ja,allemaal correct,
+"Grijze rijen zijn niet verpicht, maar worden wel aangeraden om in te vullen. ",,,,,,,,Achternaam,,"Nee, achternaam ontbreekt",14,,,,,BIC / SWIFT,Ja,allemaal correct,
+Groene rijen zijn VERPLICHT als je gaat werken met AUTOMATISCHE INCASSO als betaalmethode.,,,,,,,,Club-Member-ID,,Ja,allemaal correct,,,,,,,,
+RIJ 11: Klant voorbeeld hoe de informatie ingevult moet worden. ,,,,,,,,Email,,Ja,allemaal correct,,,,,"AUTOMATISCHE INCASSO als betaalmethode?
+Zo ja, dan zijn deze rijen verplicht!
+",,,Optionele informatie 
+,,,,,,,,Actieve klant?,,Ja,allemaal correct,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+VERPLICHTE INFORMATIE!,,,,,Optionele informatie,,,,,,,,,,,,,,
+Voornaam,Achternaam," CLUB-MEMBER-ID
+
+Uniek member ID van elke klant ","EMAIL
+
+ATTENTIE:
+Klanten kunnen niet hetzelfde email adres gebruiken! 
+Als je dit niet invult kan de klant niet het portaal of de apps gebruiken. ","HUIDIGE KLANT? 
+
+- Ja
+- Nee","GEBOORTE DATUM
+
+VERPLICHTE NOTATIE:
+DD-MM-YYYY
+
+Gebruik dezelfde notatie voor alle klanten.","GESLACHT
+
+f = vrouw
+m = man","KLANT SINDS?
+
+VERPLICHTE NOTATIE:
+DD-MM-YYYY
+
+Vanaf wanneer is de klant lid?",TELEFOON,MOBIEL,STRAATNAAM,"HUIS-
+NUMMER",POSTCODE,PLAATS,"LANDCODE 
+
+NL = Nederland    BE = Belgie
+LUX = Luxemburg
+DE = Duitsland
+FR = Frankrijk","NOTITIES
+
+Extra informatie over de klant (max.180 letters)","IBAN
+
+Attentie:
+Gebruik alsjeblieft geen spaties, punten of andere speciale tekens!!",NAAM REKENINGHOUDER,BIC / SWIFT,"PLAATS VAN DE BANK
+
+Waar heeft de klant zijn/haar rekening lopen?"
+Mark,Schmidt,100,voorbeeld@voorbeeld.nl,Ja,03-01-1990,m,01-01-2016,205676156,62323489,Langswater,663,1545,Amsterdam,NL,Geblesseerd aan knie.,,,,
+Michel,Meijer,102,test@virtuagym.com,Ja,03-01-1990,m,01-01-2018,,689231753,De straat,13,1843,Den Haag,NL,,NL91ABNA0417164300,Michel Meijer,RABONL2U,Rotterdam
+Tom,Testman,103,tom@virtuagym.com,Ja,04-01-1990,m,02-01-2018,,689231753,Mooilaan,15,1843,Volendam,NL,,NL91ABNA0417164301,Tom Testman,RABONL2U,Amsterdam
+Johan,,104,johan@virtuagym.com,Ja,05-01-1989,m,03-01-2018,,689231753,Hoofdweg,66,1843,Rotterdam,NL,,NL91ABNA0417164302,Johan,RABONL2U,Wier
+Maria,Lopez,105,michel@virtuagym.com,Nee,06-01-1990,m,04-01-2018,,689231753,Hooidollen,4,1843,Wier,NL,Revalidatie,NL91ABNA0417164303,Maria Lopez,RABONL2U,Amsterdam
+Sometest,Backname,106,michel+1@virtuagym.com,Ja,07-01-1970,m,05-01-2018,,689231753,Buorren,55,1843,London,NL,,NL91ABNA0417164304,Sometest Backname,RABONL2U,Rotterdam
+,,,,,,,,,,,,,,,,,,,
